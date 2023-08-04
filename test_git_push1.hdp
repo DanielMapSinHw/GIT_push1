@@ -1,0 +1,11 @@
+[hdl]
+test_git_push1_lib = $HDS_PROJECT_DIR\test_git_push1_lib\hdl
+[hds]
+test_git_push1_lib = $HDS_PROJECT_DIR\test_git_push1_lib\hds
+[hds_settings]
+default_library = test_git_push1_lib
+version = 3
+[library_type]
+test_git_push1_lib = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp
